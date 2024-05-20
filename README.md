@@ -10,7 +10,7 @@ In this repository, you'll find folders organized by different datasets. Each da
 
 - **Power BI**: Version 2.128.1380.0 64-bit (April, 2024)
 - **Tableau Public**: Version 2024.1.1
-  - [Tableau Public Profile](https://public.tableau.com/app/profile/abinash.behera1055/vizzes)
+  - Click [here](https://public.tableau.com/app/profile/abinash.behera1055/vizzes) to visit my Tableau Public Profile.
 
 ## Usage
 
